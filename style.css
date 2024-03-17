@@ -133,13 +133,13 @@ visibility:hidden;
     padding:20px;
     text-align:center;
     line-height:1.5;
-    z-index:223;
+    z-index:22874983749837934743;
     display:none;
 }
 @media(max-width:900px){
     .counter-parent{
         position: sticky;
         top:0;
-        z-index:2323232;
+        z-index:23232;
     }
 }
